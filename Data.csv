@@ -1,4 +1,4 @@
-Enzyme activity (UI / mL),Temperature (°C)
+Enzyme activity (UI / mL),Temperature (Â°C)
 25,24
 30,26
 32,28
@@ -9,4 +9,5 @@ Enzyme activity (UI / mL),Temperature (°C)
 33,38
 25,40
 24,42
-21,44
+21,22
+23,25
